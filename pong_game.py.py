@@ -1,3 +1,5 @@
+#THE GAME IS NOT FINSIHED
+
 from pygame import *
 from random import randint
 
