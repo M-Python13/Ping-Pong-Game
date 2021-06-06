@@ -1,7 +1,6 @@
 from pygame import *
 from random import randint
 
-
 class GameSprite(sprite.Sprite):
     def __init__(self,image_player,x_player, y_player,player_speed):
         super().__init__()
